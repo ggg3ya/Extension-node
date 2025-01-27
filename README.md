@@ -6,5 +6,6 @@
 - [Bless Network](https://bless.network/dashboard?ref=SYJJJA)
 - [Pipe Network](https://pipecdn.app/signup?ref=Z2lsYW5nLn)
 - [Dawn](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp) Code : `xoo5e1`
+- [Layeredge](https://github.com/ggg3ya/Extension-node/blob/main/layeredge.md)
 
 
